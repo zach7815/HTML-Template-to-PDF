@@ -1,0 +1,15 @@
+{
+	"name": "html-to-pdf",
+	"version": "1.0.0",
+	"type": "module",
+	"description": "simple html to pdf tutorial",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "zach",
+	"license": "ISC",
+	"dependencies": {
+		"puppeteer": "^20.0.0"
+	}
+}
